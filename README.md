@@ -2,7 +2,7 @@
 
 ## Analysis on Features that Contribute to the Success of a Movie
 
-### Data:
+### Datasets:
 
 - IMDB Movie Dataset: https://www.kaggle.com/orgesleka/imdbmovies
 
