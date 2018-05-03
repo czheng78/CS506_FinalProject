@@ -25,6 +25,6 @@
 - Q5: How well can we predict if a person might enjoy a certain type of movie based on the movies he has already watched and the ratings of such movies?
 
 
-* Chuan Xing Zheng ([@czheng78]
-* Zexu Chai ([@chaizexu]
-* Chenyu Wang ([@wangcy]
+* Chuan Xing Zheng ([@czheng78])
+* Zexu Chai ([@chaizexu])
+* Chenyu Wang ([@wangcy])
