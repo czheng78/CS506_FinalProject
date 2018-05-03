@@ -14,12 +14,12 @@
 
 ### Questions:
 
-Q1: Which important features (e.g. genres, age of users, sex of users, occupation of users, etc.) influence the IMDB score the most?
+- Q1: Which important features (e.g. genres, age of users, sex of users, occupation of users, etc.) influence the IMDB score the most?
 
-Q2: Are there differences in movies' ratings by occupations? 
+- Q2: Are there differences in movies' ratings by occupations? 
 
-Q3: Do the type of movies the users watched predict the users' gender?
+- Q3: Do the type of movies the users watched predict the users' gender?
 
-Q4: Can we predict this year's biggest box office hits in the theaters with mostly "inherent" movie characteristics?
+- Q4: Can we predict this year's biggest box office hits in the theaters with mostly "inherent" movie characteristics?
 
-Q5: How well can we predict if a person might enjoy a certain type of movie based on the movies he has already watched and the ratings of such movies?
+- Q5: How well can we predict if a person might enjoy a certain type of movie based on the movies he has already watched and the ratings of such movies?
