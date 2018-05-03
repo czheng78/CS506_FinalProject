@@ -23,3 +23,8 @@
 - Q4: Can we predict this year's biggest box office hits in the theaters with mostly "inherent" movie characteristics?
 
 - Q5: How well can we predict if a person might enjoy a certain type of movie based on the movies he has already watched and the ratings of such movies?
+
+
+* Chuan Xing Zheng ([@czheng78]
+* Zexu Chai ([@chaizexu]
+* Chenyu Wang ([@wangcy]
